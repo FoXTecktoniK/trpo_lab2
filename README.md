@@ -1,7 +1,11 @@
 ## This is readme for my second lab in TRPO
 
-## MADE by Rumyantsev.O.K
+## MADE by Ananas
 
-## I fckn love git
+## I fckn hate git
 
 ## And some other info
+
+##Run info:
+
+`python main.py`
