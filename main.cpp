@@ -8,4 +8,5 @@ int main()
   std::cout << "What is your name? ";
   getline (std::cin, name);
   std::cout << "Hello, " << name << "!\nWelocme to the club";
+  std::cout<< "Wonderful!"<<endl;
 }
