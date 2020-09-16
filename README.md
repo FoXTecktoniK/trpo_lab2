@@ -2,7 +2,7 @@
 
 ## MADE by Ananas
 
-## I fckn hate git
+## I fckn hate sublime
 
 ## And some other info
 
