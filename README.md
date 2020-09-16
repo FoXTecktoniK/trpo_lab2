@@ -3,3 +3,5 @@
 ## MADE by Rumyantsev.O.K
 
 ## I fckn love git
+
+## And some other info
